@@ -12,8 +12,8 @@ float randNumber_humidity = 0 ;
 //const int DHT_PIN = 3;
 const int LED_PIN = 2;
 
-const char* WIFI_NAME = "Winter is Coming";  // SSID WiFi
-const char* WIFI_PASSWORD = "1moreove";      // Senha 
+const char* WIFI_NAME = "";          // SSID WiFi
+const char* WIFI_PASSWORD = "";      // Senha 
 
 const int myChannelNumber =2534697;          // Número canal
 const char* myApiKey = "3MCRSZ4RA6KSAIPW";   // Api Key do canal
